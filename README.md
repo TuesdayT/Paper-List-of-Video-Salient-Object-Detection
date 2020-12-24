@@ -1,6 +1,8 @@
 # Video Salient Object Detection  <a id="Video Salient Object Detection" class="anchor" href="Video Salient Object Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-## 2020  
+
+
+## Fully Supervised - RNN 
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 01 | **CVPR** | STAViS: Spatio-Temporal AudioVisual Saliency Network | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tsiami_STAViS_Spatio-Temporal_AudioVisual_Saliency_Network_CVPR_2020_paper.pdf)/Code  
@@ -11,7 +13,7 @@
 06 | **IEEE TIP** | Cross Complementary Fusion Network for Video Salient Object Detection | Paper/[Code](https://github.com/zi-yang-w/CCNet) 
 07 | **AAAI** | Pyramid Constrained Self-Attention Network for Fast Video Salient Object Detection | [Paper](http://mftp.mmcheng.net/Papers/20AAAI-PCSA.pdf)/[Code](https://github.com/guyuchao/PyramidCSA)   
 
-## 2019  
+## Fully Supervised - Optical Flow 
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 01 | **ICCV** | Motion Guided Attention for Video Salient Object Detection | [Paper](https://arxiv.org/abs/1909.07061)/[Code](https://github.com/lhaof/Motion-Guided-Attention)  
@@ -22,9 +24,7 @@
 06 | **CVPR** | Learning Unsupervised Video Object Segmentation through Visual Attention | [Paper](https://www.researchgate.net/publication/332751903_Learning_Unsupervised_Video_Object_Segmentation_Through_Visual_Attention)/[Code](https://github.com/wenguanwang/AGS)   
 07 | **CVPR** | See More, Know More: Unsupervised Video Object Segmentation with Co-Attention Siamese Networks | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_See_More_Know_More_Unsupervised_Video_Object_Segmentation_With_Co-Attention_CVPR_2019_paper.pdf)/[Code](https://github.com/carrierlxk/COSNet)  
 
-
-
-## 2018  
+## Fully Supervised - Real-Time  
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 01 | **ECCV** | Pyramid Dilated Deeper CoonvLSTM for Video Salient Object Detection | [Paper](https://github.com/shenjianbing/PDBConvLSTM/blob/master/Pyramid%20Dilated%20Deeper%20CoonvLSTM%20for%20Video%20Salient%20Object%20Detection.pdf)/[Code](https://github.com/shenjianbing/PDB-ConvLSTM)
@@ -33,7 +33,12 @@
 04 | **CVPR** | Flow Guided Recurrent Neural Encoder for Video Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1226.pdf)/Code  
 05 | **IEEE TIP** | Video Salient Object Detection via Fully Convolutional Networks | [Paper](https://arxiv.org/pdf/1702.00871.pdf)/[Code](https://github.com/wenguanwang/ViSalientObject)
 
-## 2017  
+## Semi-Supervised  
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 | **IEEE TIP** | Learning to Detect Video Saliency with HEVC Features | [Paper](https://ieeexplore.ieee.org/abstract/document/7742914/)/[Code](https://github.com/remega/Compressd_Domain_SaliencyPrediction)
+
+## Unsupervised  
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 01 | **IEEE TIP** | Learning to Detect Video Saliency with HEVC Features | [Paper](https://ieeexplore.ieee.org/abstract/document/7742914/)/[Code](https://github.com/remega/Compressd_Domain_SaliencyPrediction)
