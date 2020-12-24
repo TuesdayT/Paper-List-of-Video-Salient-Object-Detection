@@ -14,13 +14,13 @@
 02 | **ICCV 2019** | Motion Guided Attention for Video Salient Object Detection | [Paper](https://arxiv.org/abs/1909.07061)/[Code](https://github.com/lhaof/Motion-Guided-Attention)
 03 | **CVPR 2018** | Flow Guided Recurrent Neural Encoder for Video Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1226.pdf)/Code
 
-## Fully Supervised - Real-Time  
+# Fully Supervised - Real Time  
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-:
 01 | **AAAI 2020** | Pyramid Constrained Self-Attention Network for Fast Video Salient Object Detection | [Paper](http://mftp.mmcheng.net/Papers/20AAAI-PCSA.pdf)/[Code](https://github.com/guyuchao/PyramidCSA)  
 02 | **TIP 2020** | Exploring Rich and Efficient Spatial Temporal Interactions for Real Time Video Salient Object Detection | [Paper](https://arxiv.org/abs/2008.02973)/[Code](https://github.com/guotaowang/STVS)  
 
-## Semi-Supervised  
+# Semi-Supervised  
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 01 | **TIP 2020** | A Novel Video Salient Object Detection Method via Semi-supervised Motion Quality Perception | [Paper] (https://arxiv.org/abs/2008.02966)/[Code](https://github.com/qduOliver/MQP)
