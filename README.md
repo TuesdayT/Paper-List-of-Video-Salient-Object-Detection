@@ -25,7 +25,7 @@
 ### Semi-Supervised  
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01 | **TIP 2020** | A Novel Video Salient Object Detection Method via Semi-supervised Motion Quality Perception | [Paper] (https://arxiv.org/abs/2008.02966)/[Code](https://github.com/qduOliver/MQP)
+01 | **TIP 2020** | A Novel Video Salient Object Detection Method via Semi-supervised Motion Quality Perception | [Paper](https://arxiv.org/abs/2008.02966)/[Code](https://github.com/qduOliver/MQP)
 02 | **ICCV 2019** | Semi-Supervised Video Salient Object Detection Using Pseudo-Labels | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Semi-Supervised_Video_Salient_Object_Detection_Using_Pseudo-Labels_ICCV_2019_paper.pdf)/[Code](https://github.com/Kinpzz/RCRNet-Pytorch)
 
 ### Unsupervised  
