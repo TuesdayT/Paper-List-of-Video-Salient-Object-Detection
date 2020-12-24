@@ -1,6 +1,4 @@
-# Paper-List-of-Video-Salient-Object-Detection
-
- # Video Salient Object Detection  <a id="Video Salient Object Detection" class="anchor" href="Video Salient Object Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+# Video Salient Object Detection  <a id="Video Salient Object Detection" class="anchor" href="Video Salient Object Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 ## 2020  
 **No.** | **Pub.** | **Title** | **Links** 
