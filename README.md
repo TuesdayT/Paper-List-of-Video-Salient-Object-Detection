@@ -1,15 +1,17 @@
 # Video Salient Object Detection  <a id="Video Salient Object Detection" class="anchor" href="Video Salient Object Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-
-
-## Fully Supervised - RNN 
+## Fully Supervised - Temporal Model Design
 **No.** | **Pub.** | **Title** | **Links** 
-:-: | :-: | :-  | :-: 
-01 | **CVPR** | STAViS: Spatio-Temporal AudioVisual Saliency Network | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tsiami_STAViS_Spatio-Temporal_AudioVisual_Saliency_Network_CVPR_2020_paper.pdf)/Code  
+:-: | :-: | :-  | :-:
+01 | **IEEE TIP 2020** | Learning Long-term Structural Dependencies for Video Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9199537)/[Code](https://github.com/bowangscut/LSD_GCN-for-VSOD)
+02 | **CVPR 2019** | Shifting More Attention to Video Salient Objection Detection | [Paper](https://github.com/DengPingFan/DAVSOD/blob/master/%5B2019%5D%5BCVPR%5D%5BOral%5D【SSAV】【DAVSOD】Shifting%20More%20Attention%20to%20Video%20Salient%20Object%20Detection.pdf)/[Code](https://github.com/DengPingFan/DAVSOD)
+03 | **ECCV 2018** | Pyramid Dilated Deeper CoonvLSTM for Video Salient Object Detection | [Paper](https://github.com/shenjianbing/PDBConvLSTM/blob/master/Pyramid%20Dilated%20Deeper%20CoonvLSTM%20for%20Video%20Salient%20Object%20Detection.pdf)/[Code](https://github.com/shenjianbing/PDB-ConvLSTM)
+
+
 02 | **ECCV** | Unified Image and Video Saliency Modeling | [Paper](https://arxiv.org/pdf/2003.05477.pdf)/[Code](https://github.com/rdroste/unisal)    
 03 | **ECCV** | Measuring the importance of temporal features in video saliency | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730664.pdf)/Code  
 04 | **ECCV** | TENet: Triple Excitation Network for Video Salient Object Detection | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500205.pdf)/[Code](https://github.com/OliverRensu/TENet-Triple-Excitation-Network-for-Video-Salient-Object-Detection) 
-05 | **IEEE TIP** | Learning Long-term Structural Dependencies for Video Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9199537)/[Code](https://github.com/bowangscut/LSD_GCN-for-VSOD)  
+
 06 | **IEEE TIP** | Cross Complementary Fusion Network for Video Salient Object Detection | Paper/[Code](https://github.com/zi-yang-w/CCNet) 
 07 | **AAAI** | Pyramid Constrained Self-Attention Network for Fast Video Salient Object Detection | [Paper](http://mftp.mmcheng.net/Papers/20AAAI-PCSA.pdf)/[Code](https://github.com/guyuchao/PyramidCSA)   
 
