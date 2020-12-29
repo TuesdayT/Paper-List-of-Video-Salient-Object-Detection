@@ -5,7 +5,7 @@
 :-: | :-: | :-:
 01 | [DAVSOD](http://dpfan.net/DAVSOD/) | Video Salient Object Detection
 02 | [DAVIS](https://davischallenge.org/) | Video Object Segmentation
-03 | [FBMS](https://lmb.informatik.uni-freiburg.de/resources/datasets/) | Video Obeject Segmentation
+03 | [FBMS](https://lmb.informatik.uni-freiburg.de/resources/datasets/) | Motion Segmentation
 04 | [VOS](http://cvteam.net/projects/TIP18-VOS/VOS.html) | Video Salient Object Detection
 05 | [SegTrack-V2](http://web.engr.oregonstate.edu/~lif/SegTrack2/dataset.html) | Video Object Segmentation
 06 | [ViSal](https://github.com/shenjianbing/ViSalDataset) | Video Salient Object Detection
